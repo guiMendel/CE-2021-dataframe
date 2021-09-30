@@ -1,0 +1,26 @@
+{
+    "id": "C2AE7463",
+    "path": "~/Projects/University/CE/dataframe/main.r",
+    "project_path": "main.r",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1632944999698.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "33,29",
+        "scrollLine": "21"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1632947111,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1632947111283,
+    "read_only": false,
+    "read_only_alternatives": []
+}
